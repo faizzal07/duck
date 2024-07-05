@@ -1,4 +1,4 @@
-module github.com/marcboeker/go-duckdb
+module github.com/faizzal07/duck
 
 go 1.21
 
